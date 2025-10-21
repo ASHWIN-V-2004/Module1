@@ -45,6 +45,7 @@ To write a Python program that evaluates and prints the results of boolean and a
 8. Print the value of `d` with the label "d:".
 
 ## 💻 Program
+'''
 a=0==True
 b=False==False
 c=True+True
@@ -53,7 +54,7 @@ print("a is",a)
 print("b is",b)
 print("c is",c)
 print("d is",d)
-
+'''
 
 ## Output
 ![alt text](<Screenshot 2025-10-21 165720.png>)
