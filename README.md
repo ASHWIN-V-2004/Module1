@@ -13,11 +13,13 @@ To write a Python program to check whether the given number is **even** or **odd
 4. End the program.
 
 ## 🧾 Program
+```
 a=int(input("Enter a number: "))
 if a%2==0:
     print("EVEN")
 else:
     print("ODD")    
+```
 ## Output
 ![alt text](<Screenshot 2025-10-21 164913.png>)
 
@@ -75,8 +77,10 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 2. Print the character `'a'`.
 
 ## 🧾 Program
+```
 print("T")
 print("a")
+```
 ## Output
 ![alt text](<Screenshot 2025-10-21 170820.png>)
 
@@ -101,12 +105,14 @@ To write a Python program that reads two integers, creates a complex number usin
 6. Print the imaginary part of `x` using `x.imag`.
 
 ## 💻 Program
+```
 a=int(input("Enter the real part: "))
 b=int(input("Enter the imaginary part: "))
 c=complex(a,b)
 print("complex number: ",c)
 print("Real part:" ,c.real)
 print("Imaginary part:" ,c.imag)
+```
 ## Output
 ![alt text](<Screenshot 2025-10-21 171308.png>)
 
@@ -128,8 +134,10 @@ To write a Python program to read a string from the user and then print it.
 3. Print the value stored in the variable.
 
 ## 🧾 Program
+```
 men_stepped_on_the_moon=input()
 print("men_stepped_on_the_moon")
+```
 
 ## Output
 ![alt text](<Screenshot 2025-10-21 171826.png>)
